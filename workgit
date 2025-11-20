@@ -1,0 +1,9 @@
+this is my readme file have my all command in this file 
+install ubuntu 
+apt udate -y
+apt install git -y
+git --version
+git config --global user.name "sam"
+git config --global user.email "sam@gmail.com"
+git config --list 
+
